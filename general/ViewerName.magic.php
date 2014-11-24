@@ -1,3 +1,5 @@
+<?php
+
 // Register the file with the magic words.
 $wgExtensionMessagesFiles['ViewerNameMagic'] = dirname(__FILE__) . '/ViewerName.i18n.magic.php';
  
